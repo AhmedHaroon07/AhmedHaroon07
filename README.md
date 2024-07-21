@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Java, Python**
 
-- 📫 How to reach me **sayyedharoun21@gmail**
+- 📫 How to reach me **sayyedharoun21@gmail.com**
 
 - ⚡ Fun fact **I transform into a Video Editor when I'm not Working on a Project**
 
