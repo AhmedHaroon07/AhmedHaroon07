@@ -35,4 +35,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedharoon07&show_icons=true&theme=synthwave&locale=en" alt="ahmedharoon07" /></p>
 
-<p href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AhmedHaroon07&theme=synthwave&hide_border=true&date_format=j%20M%5B%20Y%5D&card_height=200" alt="GitHub Streak" /></p>
+<p href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AhmedHaroon07&theme=synthwave&hide_border=true&date_format=j%20M%5B%20Y%5D&card_height=200&hide_border=false" alt="GitHub Streak" /></p>
