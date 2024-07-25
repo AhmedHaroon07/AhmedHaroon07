@@ -31,8 +31,8 @@
 <hr style="width: 60%; border: 1px solid #eaeaea; margin: 20px auto;">
 
 <h3 align="center"> My Stats </h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedharoon07&show_icons=true&theme=ambient_gradient&locale=en&layout=pie" alt="ahmedharoon07" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedharoon07&show_icons=true&theme=synthwave&locale=en&layout=pie" alt="ahmedharoon07" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedharoon07&show_icons=true&theme=ambient_gradient&locale=en" alt="ahmedharoon07" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedharoon07&show_icons=true&theme=synthwave&locale=en" alt="ahmedharoon07" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedharoon07&layout=pie" alt="ahmedharoon07" /></p>
+<p href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AhmedHaroon07&theme=synthwave&hide_border=true&date_format=j%20M%5B%20Y%5D&card_height=200" alt="GitHub Streak" /></p>
