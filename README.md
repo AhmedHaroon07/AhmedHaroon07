@@ -31,7 +31,7 @@
 <hr style="width: 60%; border: 1px solid #eaeaea; margin: 20px auto;">
 
 <h3 align="center"> My Stats </h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedharoon07&show_icons=true&theme=ambient_gradient&locale=en&layout=compact" alt="ahmedharoon07" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedharoon07&show_icons=true&theme=ambient_gradient&locale=en&layout=pie" alt="ahmedharoon07" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedharoon07&show_icons=true&theme=ambient_gradient&locale=en" alt="ahmedharoon07" /></p>
 
