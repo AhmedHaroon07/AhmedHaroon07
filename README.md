@@ -35,4 +35,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedharoon07&show_icons=true&theme=ambient_gradient&locale=en" alt="ahmedharoon07" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedharoon07&" alt="ahmedharoon07" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedharoon07&layout=pie" alt="ahmedharoon07" /></p>
