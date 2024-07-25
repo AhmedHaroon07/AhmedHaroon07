@@ -31,8 +31,8 @@
 <hr style="width: 60%; border: 1px solid #eaeaea; margin: 20px auto;">
 
 <h3 align="center"> My Stats </h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedharoon07&show_icons=true&locale=en&layout=compact" alt="ahmedharoon07" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedharoon07&show_icons=true&theme=dark&locale=en&layout=compact" alt="ahmedharoon07" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedharoon07&show_icons=true&locale=en" alt="ahmedharoon07" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedharoon07&show_icons=true&theme=dark&locale=en" alt="ahmedharoon07" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedharoon07&" alt="ahmedharoon07" /></p>
