@@ -1,9 +1,9 @@
 <h1 align="center"> 𝙎𝙮𝙚𝙙 𝘼𝙝𝙢𝙚𝙙 𝙃𝙖𝙧𝙤𝙤𝙣</h1>
 <h3 align="center">𝘈𝘯𝘥𝘳𝘰𝘪𝘥 𝘋𝘦𝘷 𝘢𝘯𝘥 𝘊𝘺𝘣𝘦𝘳𝘴𝘦𝘤𝘶𝘳𝘪𝘵𝘺 𝘌𝘯𝘵𝘩𝘶𝘴𝘪𝘢𝘴𝘵</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedharoon07&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedharoon07" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedharoon07&label=Profile%20views&color=0e75b6&style=dracula" alt="ahmedharoon07" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedharoon07" alt="ahmedharoon07" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedharoon07&theme=dracula" alt="ahmedharoon07" /></a> </p>
 
 <p align="center"> <a href="https://twitter.com/harooooon_1" target="blank"><img src="https://img.shields.io/twitter/follow/harooooon_1?logo=twitter&style=for-the-badge" alt="harooooon_1" /></a> </p>
 
