@@ -79,8 +79,4 @@
   <img src="https://streak-stats.demolab.com?user=AhmedHaroon07&theme=synthwave&hide_border=true&date_format=j%20M%5B%20Y%5D&card_height=200&hide_border=false" alt="GitHub Streak" />
 </p>
 
-<!-- Add TryHackMe Badge here -->
-<p align="center">
-  <script src="https://tryhackme.com/badge/3532417"></script>
-  <script src="https://tryhackme.com/badge/3532417"></script>
-</p>
+<img src="https://tryhackme-badges.s3.amazonaws.com/AhmedHaroon.png" alt="TryHackMe">
