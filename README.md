@@ -38,3 +38,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedharoon07&show_icons=true&theme=synthwave&locale=en" alt="ahmedharoon07" /></p>
 
 <p href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AhmedHaroon07&theme=synthwave&hide_border=true&date_format=j%20M%5B%20Y%5D&card_height=200&hide_border=false" alt="GitHub Streak" /></p>
+
+
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d39f27f0-76f4-4e1b-af7b-22dbbbd797de" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
